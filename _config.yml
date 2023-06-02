@@ -6,7 +6,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-baseurl: /mahapps.metro.docs-v1.6.5/
+baseurl: /mahapps.metro.docs-v1.6.5
 
 gems:
   - jekyll-mentions
